@@ -1,4 +1,15 @@
-# Ember-blog
+# Ember Blog
+
+> Hi, I’m Jon. And I am kinda drunk.
+
+—Jon Evans
+
+This repository is follows along with Jon Evans’ screencasts:
+
+* Video 1: https://youtu.be/vLXGKNA4P_g
+* Video 2: https://youtu.be/eV6JRW6gOyI
+
+---
 
 This README outlines the details of collaborating on this Ember application.
 A short introduction of this app could easily go here.
