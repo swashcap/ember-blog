@@ -3,7 +3,7 @@ var posts = [
     id: 1,
     title: 'Bananas',
     author: 1,
-    body: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin tincidunt eros elementum nibh iaculis laoreet sit amet ut mi. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc consequat felis non ipsum malesuada luctus. Morbi non tellus placerat, dignissim lorem eget, molestie ipsum. Pellentesque molestie et nisi eget accumsan. In sapien ligula, vehicula vel odio nec, tempor cursus libero.',
+    body: 'Lorem ipsum dolor **sit amet**, consectetur adipiscing elit. _Proin tincidunt_ eros elementum nibh iaculis laoreet sit amet ut mi. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc consequat felis non ipsum malesuada luctus. Morbi non tellus placerat, dignissim lorem eget, molestie ipsum. Pellentesque molestie et nisi eget accumsan. In sapien ligula, vehicula vel odio nec, tempor cursus libero.',
     date: new Date(2015, 1, 2)
   },
   {
