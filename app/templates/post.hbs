@@ -1,4 +1,11 @@
 <article class="hentry post">
+  {{#if isEditing}}
+    {{partial 'post/edit'}}
+    <button {{action 'doneEditing'}} class="btn btn-primary">Done</button>
+  {{else}}
+    <button {{action 'edit'}} class="btn btn-default">Edit</button>
+  {{/if}}
+
   <h1 class="entry-title">{{title}}</h1>
 
   <div class="vcard">
