@@ -4,7 +4,16 @@ module.exports = function(app) {
 
   postsRouter.get('/', function(req, res) {
     res.send({
-      'posts': []
+      'posts': [
+        {
+          id: 1,
+          title: 'Bananas'
+        },
+        {
+          id: 2,
+          title: 'Apples'
+        }
+      ]
     });
   });
 
